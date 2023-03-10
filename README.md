@@ -1,4 +1,4 @@
-# Hospital-System-Proccedural-Programming
+# Hospital-System
 A console Hospital System with C++ 
 ### The system has the following Feature:-
 <ul>
